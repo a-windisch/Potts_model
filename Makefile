@@ -2,7 +2,6 @@
 #=      Makefile for Potts model         =
 #=---------------------------------------= 
 #=         by Andreas Windisch           =
-#=    for nVIDIA coding assignment       =
 #=              May 2018                 =
 #=========================================
 
