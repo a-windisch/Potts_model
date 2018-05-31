@@ -1,5 +1,5 @@
 #  q-state Potts model    
-### course project 'Computational Physics I', thaught by Prof. Gattringer, University of Graz, Austria, Sep. 2009 
+### course project 'Computational Physics I', taught by Prof. Gattringer, University of Graz, Austria, Sep. 2009 
 ### Andreas Windisch, andreas.windisch@yahoo.com 
 
 ## 1. Files contained in this repository
